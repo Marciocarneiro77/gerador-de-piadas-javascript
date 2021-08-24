@@ -1,0 +1,15 @@
+body{
+    background-image: url(../img/chuck.jpeg);
+    height: 40px;
+    color: whitesmoke;
+    text-align: center;
+    font-size: larger;
+    
+   
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(80, 46, 46);
+}
+
